@@ -1,0 +1,147 @@
+{
+  "data": {
+    "multiplayer": {
+      "core": {
+        "summary": {
+          "kills": 7939,
+          "deaths": 10511,
+          "assists": 2583
+        },
+        "breakdowns": {
+          "matches": {
+            "wins": 323,
+            "losses": 435
+          }
+        },
+        "kdr": 0.7553039672723814,
+        "matches_played": 758,
+        "win_rate": 42.61213720316623
+      },
+      "progression": {
+        "xp": {
+          "total": 22798750,
+          "remaining": 145250,
+          "rank": {
+            "title": "Chief Warrant Officer",
+            "tour": 5,
+            "tier": 140,
+            "threshold": 22384000,
+            "image_url": "https://assets.halo.autocode.gg/static/mcc/images/multiplayer/ranks/tour5-chief-warrant-officer.png"
+          }
+        },
+        "ranks": [
+          {
+            "platform": "PC",
+            "playlists": [
+              {
+                "id": "H3RankedSlayer",
+                "name": "",
+                "rank": 1,
+                "image_url": "https://assets.halo.autocode.gg/static/mcc/images/multiplayer/skill-ranks/rank-1.png"
+              },
+              {
+                "id": "H4_SQUAD_BATTLE",
+                "name": "H4 Squad Battle",
+                "rank": 1,
+                "image_url": "https://assets.halo.autocode.gg/static/mcc/images/multiplayer/skill-ranks/rank-1.png"
+              },
+              {
+                "id": "WENATCHEE_INV",
+                "name": "",
+                "rank": 1,
+                "image_url": "https://assets.halo.autocode.gg/static/mcc/images/multiplayer/skill-ranks/rank-1.png"
+              },
+              {
+                "id": "H2AHardcore",
+                "name": "",
+                "rank": 1,
+                "image_url": "https://assets.halo.autocode.gg/static/mcc/images/multiplayer/skill-ranks/rank-1.png"
+              },
+              {
+                "id": "H3Hardcore",
+                "name": "",
+                "rank": 1,
+                "image_url": "https://assets.halo.autocode.gg/static/mcc/images/multiplayer/skill-ranks/rank-1.png"
+              },
+              {
+                "id": "H3TeamDoubles",
+                "name": "",
+                "rank": 1,
+                "image_url": "https://assets.halo.autocode.gg/static/mcc/images/multiplayer/skill-ranks/rank-1.png"
+              },
+              {
+                "id": "HCEDoubles",
+                "name": "",
+                "rank": 1,
+                "image_url": "https://assets.halo.autocode.gg/static/mcc/images/multiplayer/skill-ranks/rank-1.png"
+              }
+            ]
+          },
+          {
+            "platform": "Xbox",
+            "playlists": [
+              {
+                "id": "H3RankedSlayer",
+                "name": "",
+                "rank": 5,
+                "image_url": "https://assets.halo.autocode.gg/static/mcc/images/multiplayer/skill-ranks/rank-5.png"
+              },
+              {
+                "id": "H4_SQUAD_BATTLE",
+                "name": "H4 Squad Battle",
+                "rank": 1,
+                "image_url": "https://assets.halo.autocode.gg/static/mcc/images/multiplayer/skill-ranks/rank-1.png"
+              },
+              {
+                "id": "WENATCHEE_INV",
+                "name": "",
+                "rank": 1,
+                "image_url": "https://assets.halo.autocode.gg/static/mcc/images/multiplayer/skill-ranks/rank-1.png"
+              },
+              {
+                "id": "H2AHardcore",
+                "name": "",
+                "rank": 1,
+                "image_url": "https://assets.halo.autocode.gg/static/mcc/images/multiplayer/skill-ranks/rank-1.png"
+              },
+              {
+                "id": "H3Hardcore",
+                "name": "",
+                "rank": 1,
+                "image_url": "https://assets.halo.autocode.gg/static/mcc/images/multiplayer/skill-ranks/rank-1.png"
+              },
+              {
+                "id": "H3TeamDoubles",
+                "name": "",
+                "rank": 1,
+                "image_url": "https://assets.halo.autocode.gg/static/mcc/images/multiplayer/skill-ranks/rank-1.png"
+              },
+              {
+                "id": "HCEDoubles",
+                "name": "",
+                "rank": 1,
+                "image_url": "https://assets.halo.autocode.gg/static/mcc/images/multiplayer/skill-ranks/rank-1.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "campaign": {
+      "core": {
+        "summary": {
+          "kills": 23235,
+          "deaths": 2870
+        },
+        "missions_completed": 196
+      }
+    },
+    "time_played": {
+      "seconds": 720158,
+      "human": "8d 08h 02m 38s"
+    }
+  },
+  "additional": {
+    "gamertag": "Needles696"
+  }
+}
